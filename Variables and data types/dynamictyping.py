@@ -13,7 +13,7 @@ x = 3
 z = 4j
 print(x+z, type(z+x))
 
-print ()
-type()
+# print ()
+# type()
 
 # ex: list, tuple, set, dict
