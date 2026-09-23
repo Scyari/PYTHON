@@ -19,6 +19,6 @@ for scale in range(11, 17):
         y = (13 * math.cos(angle) - 5 * math.cos(2 * angle) - 2 * math.cos(3 * angle) - math.cos(4 * angle)) * scale
         
         t.goto(x, y)
-        t.write("I love you", align="center", font=("Arial", 8, "bold"))
+        t.write("FUCK YOU", align="center", font=("Arial", 8, "bold"))
 
 turtle.done()
